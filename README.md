@@ -57,6 +57,16 @@ I have authored several papers on biomedical signal processing and healthcare ap
 
 ---
 
+## 📚 Knowledge of Industry Standards
+
+To strengthen my understanding of regulatory requirements for medical devices, I have completed online courses covering critical industry standards:
+
+- **[21 CFR Part 820](https://www.udemy.com/course/21-cfr-part-820-medical-device-qsr-practice-exam/?couponCode=KEEPLEARNING)** - Medical Device Quality System Regulation (QSR)
+- **[ISO 13485](https://www.udemy.com/course/iso13485-medical-devices-qms/?couponCode=KEEPLEARNING)** - Quality Management Systems for Medical Devices
+
+These courses provided foundational knowledge on quality management and compliance frameworks essential for developing safe, reliable, and effective medical devices.
+
+
 ## 🌐 Let’s Connect
 
 Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/mahdi-torabi) or reach out via [email](mailto:Mato.1376@gmail.com) if you’re interested in collaboration, or just want to talk about the future of healthcare and technology. 
