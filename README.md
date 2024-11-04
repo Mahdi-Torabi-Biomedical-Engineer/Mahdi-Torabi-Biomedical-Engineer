@@ -44,7 +44,6 @@ I have authored several papers on biomedical signal processing and healthcare ap
 2. "Enhanced In-Home Human Activity Recognition Using Multimodal Sensing and Spatiotemporal Machine Learning Architecture" (EMBC2024)
 3. "In-Home Human Activity Recognition with Kinematics-focused Multi-modal Sensor Fusion and Spatiotemporal Neural Network Architecture" (IEEE TBME)
 
-For more, see the [Publications](link-to-publications).
 
 ---
 
