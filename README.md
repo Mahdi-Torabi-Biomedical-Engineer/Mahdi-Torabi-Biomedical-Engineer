@@ -18,19 +18,19 @@ I hold a Master’s degree in Mechatronic Systems Engineering and have extensive
 
 ## 🧪 Featured Projects
 
-### 1. [In-home Human Activity Recognition System](link-to-project)
+### 1. In-home Human Activity Recognition System
    - **Description**: Developed a system to monitor daily activities and detect health risks in seniors, using wrist-based and ambient sensors for continuous activity recognition.
    - **Technologies**: Python, TensorFlow, Real-Time Location Systems (RTLS), Convolutional and Recurrent Neural Networks.
 
-### 2. [Home-Based Gait Analysis with Apple Watch and Camera Data](link-to-project)
+### 2. Home-Based Gait Analysis with Apple Watch and Camera Data
    - **Description**: Built a gait analysis platform using wearable and ambient sensors, enabling lab-quality gait assessments from home. Successfully benchmarked results against Vicon motion capture systems.
    - **Technologies**: Python, CNN-BiLSTM model, Spatiotemporal Neural Networks, AltumView Sentinare 2 Camera.
 
-### 3. [Heart Rate Monitoring: A Comparison of ECG, BCG, and PPG](link-to-project)
+### 3. Heart Rate Monitoring: A Comparison of ECG, BCG, and PPG
    - **Description**: Conducted a comparative study on heart rate monitoring using multiple non-invasive sensors, identifying trade-offs between accuracy, comfort, and invasiveness.
    - **Technologies**: MATLAB, Signal Processing, Data Analysis, Sensor Fusion.
 
-### 4. [Neurorehabilitation Using EMG and EEG](link-to-project)
+### 4. Neurorehabilitation Using EMG and EEG
    - **Description**: Designed and tested a neurorehabilitation device for motion feedback, utilizing EMG and EEG bio-signals for classification of muscle fatigue and cognitive state.
    - **Technologies**: SVM, Python, Signal Processing, Bio-Signal Analysis.
 
