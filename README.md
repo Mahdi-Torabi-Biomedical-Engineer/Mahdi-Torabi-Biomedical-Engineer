@@ -1,4 +1,4 @@
-# 👋 Welcome to Mahdi Torabi's Biomedical Engineering & Machine Learning Hub
+# 👋 Welcome, This is Mahdi
 
 Hello! I’m **Mahdi Torabi**, a Biomedical and Systems Engineer specializing in the integration of **machine learning** with **biomedical device development** to tackle real-world healthcare challenges. My background in **biomechanics**, **wearable technology**, and **sensor data analysis** has driven me to create solutions aimed at improving quality of life and advancing personalized healthcare.
 
